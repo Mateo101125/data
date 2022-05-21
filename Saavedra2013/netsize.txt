@@ -1,0 +1,5 @@
+n1.txt
+FILAS
+97
+COLUMNAS
+80
